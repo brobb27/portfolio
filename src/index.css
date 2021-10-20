@@ -313,7 +313,7 @@ body {
 }
 
 #buttonDiv > a {
-	all: unset;
+	text-decoration: none;
 	display: grid;
 	place-items: center;
 	color: whitesmoke;
