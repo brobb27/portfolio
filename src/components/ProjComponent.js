@@ -9,7 +9,7 @@ function ProjComponent({proj}) {
                 <p>{proj.description}</p>
             </div>
             <div id='buttonDiv'>
-                <button>Visit Site</button>
+                <a href={proj.link}>Visit Site</a>
             </div>
         </div>
     )
