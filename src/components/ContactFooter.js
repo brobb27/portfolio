@@ -26,7 +26,7 @@ function ContactFooter() {
                     </div>
                     <div>
                         <div>
-                            <a href='https://docs.google.com/document/d/1S9q27JRSO6ZgCpAot2Nv0WvwuexK7kFewzWbpHBKKAQ/edit?usp=sharing' rel="noopener noreferrer" target='_blank'><HiDocumentText /></a>
+                            <a href='https://drive.google.com/file/d/1ifPeWk-UKlHa8zelxF_ZYDc55qPNozqM/view?usp=sharing' rel="noopener noreferrer" target='_blank'><HiDocumentText /></a>
                         </div>
                         <p>Resume</p>
                     </div>
