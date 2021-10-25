@@ -9,7 +9,7 @@ function ProjComponent({proj}) {
                 <p>{proj.description}</p>
             </div>
             <div id='buttonDiv'>
-                <a href={proj.link} rel="noopener noreferrer" target='_blank'>{proj.title !== 'Job Tracker' ? 'Visit Site' : 'Coming Soon'}</a>
+                <a href={proj.link} rel="noopener noreferrer" target='_blank'>Visit Site'</a>
             </div>
         </div>
     )

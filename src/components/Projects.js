@@ -29,7 +29,7 @@ function Projects() {
             projectImg: jobTracker,
             title: 'Job Tracker',
             description: 'Are you on the job hunt? This full stack app helps you to keep track of all the jobs you want. Easily see the pros, cons, and if you have applied to the jobs you are interested in.',
-            link: ''
+            link: 'https://job-tracker-brobb.herokuapp.com/'
         },
         {
             projectImg: memeMachine,
