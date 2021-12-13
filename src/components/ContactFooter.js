@@ -32,7 +32,7 @@ function ContactFooter() {
                     </div>
                     <div>
                         <div>
-                            <a href='https://github.com/brobb27/vschool' rel="noopener noreferrer" target='_blank'><FaGithub /></a>
+                            <a href='https://github.com/brobb27' rel="noopener noreferrer" target='_blank'><FaGithub /></a>
                         </div>
                         <p>Github</p>
                     </div>
