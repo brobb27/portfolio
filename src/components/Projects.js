@@ -46,7 +46,7 @@ function Projects() {
         {
             projectImg: kentsCamera,
             title: 'Kents Camera Castle',
-            description: `This fully responsive landing page was built from scratch using HTML, CSS, and Bootstrap. It was built as part of a digital marketing assignment while finishing my bachelor's degree.`,
+            description: `This landing page was built from scratch using HTML, CSS, and Bootstrap. It was built for a digital marketing class I took while completing bachelor's degree.`,
             link: 'https://kents-camera-castle-br.netlify.app/'
         },
         {
