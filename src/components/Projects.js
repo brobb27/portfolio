@@ -9,10 +9,17 @@ import memeMachine from '../images/memeMachine.png'
 import sampleBlog from '../images/sampleBlog.png'
 import kentsCamera from '../images/kentsCamera.png'
 import travelList from '../images/travelList.png'
+import askedIt from '../images/askedIt.png'
 
 function Projects() {
     // list of project details
     const projectList = [
+        {
+            projectImg: askedIt,
+            title: 'Asked It',
+            description: `For all of those questions you have, and all the answers to questions you never knew you had. You can create an account, ask questions, answer other's questions, up vote the good quesitons/answers, and downvote the bad ones. This fullstack app was deployed using Netlify and Cloud Run.`,
+            link: 'https://askedit.netlify.app/'
+        },
         {
             projectImg: magicAte,
             title: 'Magic Ate Ball',
