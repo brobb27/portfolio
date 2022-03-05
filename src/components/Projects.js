@@ -10,6 +10,7 @@ import sampleBlog from '../images/sampleBlog.png'
 import kentsCamera from '../images/kentsCamera.png'
 import travelList from '../images/travelList.png'
 import askedIt from '../images/askedIt.png'
+import eventPlanner from '../images/eventPlanner.png'
 
 function Projects() {
     // list of project details
@@ -17,8 +18,14 @@ function Projects() {
         {
             projectImg: askedIt,
             title: 'Asked It',
-            description: `For all of those questions you have, and all the answers to questions you never knew you had. You can create an account, ask questions, answer other's questions, up vote the good quesitons/answers, and downvote the bad ones. This fullstack app was deployed using Netlify and Cloud Run.`,
+            description: `For all of those questions you have, and all the answers to questions you never knew you had. You can create an account, ask questions, answer others' questions, upvote the good questions/answers, and downvote the bad ones. This full-stack app was deployed using Netlify and Cloud Run.`,
             link: 'https://askedit.netlify.app/'
+        },
+        {
+            projectImg: eventPlanner,
+            title: 'Event Planner',
+            description: `This full-stack web application helps companies plan their events. They can add sessions to the event lineup, edit the lineup, and delete one or multiple sessions if for whatever reason plans fall through. Don’t worry about sorting the lineup, the software nicely displays and sorts the events’ sessions by start time.`,
+            link: 'https://visioningen.netlify.app/'
         },
         {
             projectImg: magicAte,
