@@ -23,7 +23,7 @@ function Projects() {
         },
         {
             projectImg: eventPlanner,
-            title: 'Event Planner',
+            title: 'Vision Ingen',
             description: `This full-stack web application helps companies plan their events. They can add sessions to the event lineup, edit the lineup, and delete one or multiple sessions if for whatever reason plans fall through. Don’t worry about sorting the lineup, the software nicely displays and sorts the events’ sessions by start time.`,
             link: 'https://visioningen.netlify.app/'
         },
